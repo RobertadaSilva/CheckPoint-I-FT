@@ -2,4 +2,4 @@ Este é meu primeiro CheckPoint solicitado pela matéria de Front-End-I, ministr
 
 Para acessar à página, basta entrar em: "Environments ---> View Deployment.
 
-PS: O site não ainda não é Responsivo.
+PS: O site ainda não é Responsivo.
