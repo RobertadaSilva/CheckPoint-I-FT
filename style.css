@@ -1,0 +1,90 @@
+html{           scroll-behavior: smooth;}
+
+
+
+body{           background-size: auto;
+                background-image: url('https://s2.glbimg.com/sU-lG3xXSlej09f_AyhkELvti0w=/0x0:3000x1993/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Y/f/9gWgjBSz6NeDkJA1YjlQ/fup20210306264.jpg'); 
+                
+                background-position: center top;
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+                }
+
+            
+
+header{ 
+                padding-left: 25px;
+                padding-bottom: 40px;
+                height: 30px;
+                font-size: 18px;}
+    
+
+
+h1{ 
+                background-color:rgba(211, 211, 211, 0.507);
+                color:rgba(192, 51, 51, 0.787);
+                text-align: center;   
+                padding: 10px;
+                padding: 10px;
+                height: 70px; 
+                font-family: 'Mochiy Pop P One', sans-serif;
+                margin-top: -10px;
+                margin-left: -30px;
+                margin-right: -20px;}
+
+            
+
+ p{
+                padding-left: 25px;
+                padding-bottom: -10px;
+                text-align: center;
+                color: rgb(255, 140, 140);
+                font-size: 22px;
+                font-family: 'Noto Sans SC', sans-serif;}
+
+
+
+ strong{        background-color: rgba(77, 57, 253, 0.691);}
+
+
+
+ iframe{
+            
+                width: 1280px ;
+                height: 720px;
+                padding-left: 25px;
+                margin-top: auto;} 
+
+
+
+nav{
+                padding-left: 40px;
+                text-align: center;
+                color:rgb(255, 129, 129);
+                font-size: 22px;
+                margin-top: 10px;
+                margin-bottom: 15px;
+                font-family: 'Noto Sans SC', sans-serif;}
+
+
+
+
+
+h2{
+  
+                color: rgba(226, 69, 69, 0.952);
+                padding-bottom: 10px;
+                padding-left: 40px;
+                font-size: 38px;
+                font-family: 'Mochiy Pop P One', sans-serif;
+                margin-bottom: -10px;}
+                
+            
+
+
+footer{
+            
+                text-align: center;
+                padding-left: 40px;
+                border-left: 12px;}
